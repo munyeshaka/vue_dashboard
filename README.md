@@ -1,7 +1,19 @@
 
 # vue-dashboard
 
-### vue dashboard project is an axample of dashboard usin vue js
+example of dashboard using vue js
+---------------------------------
+
+we will use:
+============
+
+* vuex (store)
+* router
+
+**Dashboard vue**
+__vuex , router__
+
+
 
 ## Project setup
 ```

@@ -23,7 +23,7 @@ export default {
     
 <style scoped>
 .dashboard-header {
-    background-color: #a110a1;
+    background-color: #4285f4;
     color: #fff;
     display: flex;
     align-items: center;

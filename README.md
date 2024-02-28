@@ -1,4 +1,7 @@
+
 # vue-dashboard
+
+### vue dashboard project is an axample of dashboard usin vue js
 
 ## Project setup
 ```
